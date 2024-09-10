@@ -1,0 +1,35 @@
+/* Clase para el Imperio */
+.imperio {
+    background-color: red;
+}
+
+/* Clase para los Rebeldes */
+.rebeldes {
+    background-color: blue;
+}
+
+/* ID para Darth Vader: aumenta tamaño de la letra */
+#darth-vader {
+    font-size: 2em;
+}
+
+/* ID para Luke Skywalker: pone en itálica */
+#luke {
+    font-style: italic;
+}
+
+/* Clase para los soldados: borde y espaciado entre letras */
+.soldado {
+    border: 3px dashed black; /* Borde de líneas rayadas */
+    letter-spacing: 2px;      /* Espaciado entre letras */
+}
+
+/* Clase para las unidades de apoyo: texto centrado */
+.apoyo {
+    text-align: center;
+}
+
+/* Clase para las naves: todo en mayúsculas */
+.naves {
+    text-transform: uppercase;
+}
